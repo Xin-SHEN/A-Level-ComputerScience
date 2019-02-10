@@ -1,0 +1,16 @@
+AB0001
+alex@email.com
+street1building1
+Xin
+AB0002
+alice@email.com
+s2b2
+Joe
+AB0003
+allen@email.com
+s3b3
+Joe
+AC0003
+bob@email.com
+s4b4
+Xin

@@ -1,0 +1,3 @@
+AB0001#Alex@email.com#Street1#Xin
+AB0002#Allen@email.com#Street2#Hellen
+AB0003#Alice@email.com#Street3#Joe
