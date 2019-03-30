@@ -1,6 +1,0 @@
-AB0001#Allen@email.com
-AB0002#Alex@email.com
-AB0003#Alice@email.com
-AC0001#Bob@email.com
-AC0002#Jean@email.com
-AC0003#Joe@email.com

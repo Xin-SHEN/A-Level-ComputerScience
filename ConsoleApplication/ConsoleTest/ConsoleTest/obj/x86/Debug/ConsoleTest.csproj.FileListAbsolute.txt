@@ -1,6 +1,0 @@
-/Users/xin/Documents/GitHub/A-Level-CS/ConsoleApplication/ConsoleTest/ConsoleTest/bin/Debug/ConsoleTest.exe
-/Users/xin/Documents/GitHub/A-Level-CS/ConsoleApplication/ConsoleTest/ConsoleTest/bin/Debug/ConsoleTest.pdb
-/Users/xin/Documents/GitHub/A-Level-CS/ConsoleApplication/ConsoleTest/ConsoleTest/obj/x86/Debug/ConsoleTest.csprojAssemblyReference.cache
-/Users/xin/Documents/GitHub/A-Level-CS/ConsoleApplication/ConsoleTest/ConsoleTest/obj/x86/Debug/ConsoleTest.csproj.CoreCompileInputs.cache
-/Users/xin/Documents/GitHub/A-Level-CS/ConsoleApplication/ConsoleTest/ConsoleTest/obj/x86/Debug/ConsoleTest.exe
-/Users/xin/Documents/GitHub/A-Level-CS/ConsoleApplication/ConsoleTest/ConsoleTest/obj/x86/Debug/ConsoleTest.pdb
