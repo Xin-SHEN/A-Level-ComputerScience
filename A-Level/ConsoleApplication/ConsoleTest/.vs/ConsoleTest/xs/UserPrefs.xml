@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B28A0F25-48F0-46F8-A1B8-77F6C8DCE548}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleTest/Program.cs">
+    <Files>
+      <File FileName="ConsoleTest/Program.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/xin/Documents/GitHub/A-Level-CS/ConsoleApplication/ConsoleTest/ConsoleTest/Program.cs" relfile="ConsoleTest/Program.cs" line="12" column="33" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
